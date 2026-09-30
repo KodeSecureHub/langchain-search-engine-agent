@@ -1,13 +1,4 @@
 
----
-
-# 4. `.gitignore`
-
-This is **very important**, especially because your project has a `.env` file.
-
-Create `.gitignore` with:
-
-```gitignore
 # Environment variables
 .env
 .env.*
